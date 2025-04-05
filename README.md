@@ -1,0 +1,2 @@
+# Clasificación de texto a nivel de emociones usando Python
+Proyecto desarrollado en Python, utilizando un modelo para clasificar texto a nivel de emociones, y posteriormente una agrupación de estas clasificaciones en clústeres mediante K-Means, así como diferentes gráficos dinámicos tanto en 2D como 3D para el análisis de la información. Puede observar el funcionamiento en el siguiente enlace: https://colab.research.google.com/drive/1du5f1XA42gUyvRwGDY9g2G3P1koRj_pg?usp=sharing
